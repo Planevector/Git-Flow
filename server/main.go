@@ -4,6 +4,6 @@ import "fmt"
 
 func main(){
 
-	fmt.Println("mainfunction")
+	fmt.Println("call main function")
 
 }
